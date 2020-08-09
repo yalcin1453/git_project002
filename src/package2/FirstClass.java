@@ -19,6 +19,8 @@ public class FirstClass {
 		System.out.println("Hey Yusuf, Welcome!");
 
 		System.out.println("Second");
+		
+		System.out.println("Hi i just find it , fatih!");
 
 		
 
